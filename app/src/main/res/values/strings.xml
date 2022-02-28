@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ReserverApp</string>
+    <string name="whereToSit">Where do you want to sit?</string>
+    <string name="waiterImageDesc">This is the waiter image.</string>
+</resources>
